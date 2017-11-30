@@ -38,18 +38,31 @@ He creado el repositorio GitHub con todos los archivos incluidos.
 Para 
 Una vez establecidos todos los archivos, he validado el html. Para ello, he copiado el enlace del html de GitHub y lo he añadido a [RawGit](https://rawgit.com) para obtener un enlace. Mediante dicho enlace, me he dirigido a la web [validador w3](https://validator.w3.org) y he copiado allí el enlace.
 
-## Paso 7: corrección de html.
-Tras la primera validación me surgieron los siguientes errores:
+Para validar los css, he introducido sus links de GitHub en RawGit y los enlaces proporcionados los he insertado en la web [validador w3 css](https://jigsaw.w3.org/css-validator/).
 
-![Errores](/img/errores.PNG).
+## Paso 7: corrección de html y css.
+Tras la validación de los html y css:
 
-La corrección de dichos errores consistía en eliminar los saltos de página entre los elementos de la lista y añadir un indicador a los elementos asociados al archivo css en los que establecí un margen entre elementos.
+![Validacion 1](/img/validacion1.PNG).
 
-Tras la corrección de dichos errores, al volver a validar:
+![Validacion 2](/img/validacion2.PNG).
 
-![Validación](/img/validación.PNG).
+![Validacion 3](/img/validacion3.PNG).
 
-## Paso 8: Creación del README.md.
+![Validacion 4](/img/validacion4.PNG).
+
+![Validacion 5](/img/validacion5.PNG).
+
+Las validaciones de css son las siguientes:
+
+![Validacion 6](/img/validacion6.PNG).
+
+![Validacion 7](/img/validacion7.PNG).
+
+## Paso 8: minificación de código.
+Para minificar el código, nos dirigimos a la página [willpeavy](https://www.willpeavy.com/minifier/) y pegamos el código de los html y css. Para finalizar, creamos un branch en GitHub e insertamos el código minificado.
+
+## Paso 9: Creación del README.md.
 Por último, he creado el presente fichero README en el repositorio con los detalles de los pasos que he seguido para llevar a cabo la tarea. 
 
 ## Dirección URL.
