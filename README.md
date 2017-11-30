@@ -60,11 +60,10 @@ Las validaciones de css son las siguientes:
 ![Validacion 7](/img/validacion7.PNG).
 
 ## Paso 8: minificación de código.
-Para minificar el código, nos dirigimos a la página [willpeavy](https://www.willpeavy.com/minifier/) y pegamos el código de los html y css. Para finalizar, creamos un branch en GitHub e insertamos el código minificado.
+Para minificar el código, nos dirigimos a la página [willpeavy](https://www.willpeavy.com/minifier/) y pegamos el código de los html y css. A continuación, copiamos el código en nuevos html y css e introduciremos un branch en GitHub donde se incluyen con los códigos minimificados.
 
 ## Paso 9: Creación del README.md.
 Por último, he creado el presente fichero README en el repositorio con los detalles de los pasos que he seguido para llevar a cabo la tarea. 
 
 ## Dirección URL.
-Mi web es: [SwitchPlay](https://github.com/Pimpollo21/Tarea02-Parte-2/blob/master/SwitchPlay2.html ).
-(La dirección de RawGit es: https://rawgit.com/Pimpollo21/Tarea02-Parte-2/master/SwitchPlay2.html )
+El enlace de RawHit a mi web es: https://rawgit.com/Pimpollo21/Aterrizaje-Lunar/master/index.html 
