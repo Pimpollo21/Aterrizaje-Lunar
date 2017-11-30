@@ -66,4 +66,5 @@ Para minificar el código, nos dirigimos a la página [willpeavy](https://www.wi
 Por último, he creado el presente fichero README en el repositorio con los detalles de los pasos que he seguido para llevar a cabo la tarea. 
 
 ## Dirección URL.
-El enlace de RawHit a mi web es: https://rawgit.com/Pimpollo21/Aterrizaje-Lunar/master/index.html 
+El enlace de RawGit a mi web es: https://rawgit.com/Pimpollo21/Aterrizaje-Lunar/master/index.html 
+El enlace de RawGit del código minificado es: https://rawgit.com/Pimpollo21/Aterrizaje-Lunar/Pimpollo21-Palma/index.html
